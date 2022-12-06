@@ -15,7 +15,7 @@ public class Movie {
 
 	  }
 
-	  public double getPriceCode() {
+	  public int getPriceCode() {
 		return _price.getPriceCode();
 	}
 
